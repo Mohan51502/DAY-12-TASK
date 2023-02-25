@@ -1,0 +1,39 @@
+.main{
+    height: 1000px;
+    width: 1000px;
+    background-color: blue;
+    position: relative;
+}
+.center{
+    height: 100px;
+    width:100%;
+    background-color: brown;
+}
+.rec{
+    height: 850px;
+    width: 350px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: aquamarine;
+}
+.ce{
+    height: 20px;
+    width: 500px;
+    border-radius: 8px;
+    background-color: rgb(206, 39, 39);
+    justify-content: end;
+    align-items: center;
+}
+.squre{
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+    justify-content:space-around;
+    background-color: green;box-sizing: border-box;
+}
+.last{
+    width: auto;
+    height: 100px;
+    background-color: darkcyan;
+    border-radius: 5px;
+}
